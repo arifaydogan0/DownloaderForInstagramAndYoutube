@@ -1,6 +1,9 @@
 # DownloaderForInstagramAndYoutube
 #### Downloader app for youtube videos and instagram posts.
-#### You can download private instagram accounts's posts, reels videos and photos using this app.
+##### -> You can download private instagram accounts's posts, reels videos and photos using this app,
+##### -> You can also download youtube videos,
+##### -> It is simple to use, you have to login to an account to download instagram videos. 
+##### -> No need to login for youtube video, you can download directly.
 
 # 1
 ![Ekran görüntüsü 2022-09-27 104316](https://user-images.githubusercontent.com/96810885/192465044-fde20765-1202-4340-86a6-cab8c623af20.png)
