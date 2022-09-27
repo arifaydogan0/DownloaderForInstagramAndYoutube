@@ -19,12 +19,26 @@ namespace DownloaderApp.Forms
 
         private void FormYoutubedownloader_Load(object sender, EventArgs e)
         {
-            Program.frmMain.Hide();
+
         }
 
         private void FormYoutubedownloader_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Program.frmMain.Show();
+            this.Visible = false;
+            Program.frmMain.Visible = true;
+            e.Cancel = true;
+        }
+
+        private void buttonDownload_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+
+            }
         }
     }
 }

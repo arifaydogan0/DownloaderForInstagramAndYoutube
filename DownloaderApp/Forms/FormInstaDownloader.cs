@@ -39,12 +39,14 @@ namespace DownloaderApp.Forms
 
         private void FormInstaDownloader_Load(object sender, EventArgs e)
         {
-            Program.frmMain.Hide();
+
         }
 
         private void FormInstaDownloader_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Program.frmMain.Show();
+            this.Visible = false;
+            Program.frmMain.Visible = true;
+            e.Cancel = true;
         }
 
 
@@ -54,7 +56,11 @@ namespace DownloaderApp.Forms
         {
 
             loginInsta();
-
+            if (true)
+            {
+                buttonGet.Enabled = true;
+                txtUrl.Enabled = true;
+            }
 
             /* yerel metot */
             async void loginInsta()
@@ -324,13 +330,13 @@ namespace DownloaderApp.Forms
                 {
                     downloaderMethod(LinkDownloadSingleData);
                     buttonStart.Text = "Stop Download";
-                    buttonStart.BackColor = Color.Red;
+                    buttonStart.BackColor = Color.LimeGreen;
                 }
                 else
                 {
                     downloaderMethod(ListDownload[comboboxLinkDownload.SelectedIndex]);
                     buttonStart.Text = "Stop Download";
-                    buttonStart.BackColor = Color.Red;
+                    buttonStart.BackColor = Color.LimeGreen;
 
                 }
 

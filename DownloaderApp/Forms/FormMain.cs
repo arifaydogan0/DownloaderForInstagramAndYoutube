@@ -38,7 +38,8 @@ namespace DownloaderApp.Forms
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            Program.frmInsta.Show();
+            Program.frmMain.Visible = false;
+            Program.frmInsta.Visible = true;
         }
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
@@ -53,7 +54,8 @@ namespace DownloaderApp.Forms
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            Program.frmYoutube.Show();
+            Program.frmMain.Visible = false;
+            Program.frmYoutube.Visible = true;
         }
     }
 }
