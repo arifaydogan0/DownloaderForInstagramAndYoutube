@@ -72,7 +72,7 @@
             this.groupBox1.Size = new System.Drawing.Size(176, 289);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "İnsta Account";
+            this.groupBox1.Text = "Instagram Account";
             // 
             // loginStatus
             // 
@@ -170,10 +170,10 @@
             // 
             this.labelPrgrs.AutoSize = true;
             this.labelPrgrs.BackColor = System.Drawing.Color.Transparent;
-            this.labelPrgrs.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.labelPrgrs.Location = new System.Drawing.Point(41, 251);
+            this.labelPrgrs.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelPrgrs.Location = new System.Drawing.Point(35, 251);
             this.labelPrgrs.Name = "labelPrgrs";
-            this.labelPrgrs.Size = new System.Drawing.Size(29, 18);
+            this.labelPrgrs.Size = new System.Drawing.Size(31, 18);
             this.labelPrgrs.TabIndex = 28;
             this.labelPrgrs.Text = "0%";
             // 
