@@ -246,8 +246,50 @@
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>800, 450</value>
   </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAAAAAAAEAIABxCQAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAEAAAABAAgEAAAA9ntg7QAAAAFv
+        ck5UAc+id5oAAAkrSURBVHja7Z19kFV1Gce/wLovLoogEZqQZVhhaIODQ1qWjvk2aWOpoxlqirhmBY6j
+        9oKVSiY1TpMFOIyMNUg69uLoKNGaiopoiPgCvpGZlVKyiIq7IiywPRcQ9uWc+5y93Hv3nPP7fH7/7OzZ
+        Pb/f8zyfPfeel/usFCbjtVwdncZy+w4Ewygt7VL+wnhCB5KYMBig2T3KXxizbQsEwGitihRglW2BADhN
+        myIF2GRbIACaIstfGE0kJwQuihXgIpKDAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACA
+        AIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACA
+        AIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAACIAA
+        CIAACIAACIAACIAACIAACIAACIAACEByEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAA
+        EAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAA
+        EAAQABAAECDP9FO96oISoM4i7kfhCwzWmZqje7VAN+gES0veBajX8RbpAot4jkU+OPTyj1Wz2ncUoE2/
+        1YhcCzDCImzbMV+7aTA25PIfpKd7FGGBRuZWgJEWXfc5n7EsBEqd5kWWYb72y6UA++meyFnnVfH9T6o4
+        TGtjCnGX9s2dAPtaVNGzrrVMBElTbCE6dIeG50qA4RZRfLRNYQpwZZGUdOgPGpYbAYbp90VjvTJMASYX
+        TUqHbtPQXAgw1CIpHunkMAU4Sq1OYuZp78wLMES3OFG2WiaCZA81O6npsLPmwZkWYLBF4MXYbJkIlC9o
+        lZueORqUWQEG2eq9+FZZFgLmdK12UzRbe2ZSgD1t5V5sLZaBwPma1jhJ2qKZGpg5AQbaqrc4ka2x6EET
+        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
+</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
