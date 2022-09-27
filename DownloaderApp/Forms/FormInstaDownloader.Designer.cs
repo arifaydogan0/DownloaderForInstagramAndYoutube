@@ -327,7 +327,7 @@
             this.MainMenuStrip = this.menuStrip;
             this.Name = "FormInstaDownloader";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FormInstaDownloader";
+            this.Text = "Instagram Downloader";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormInstaDownloader_FormClosing);
             this.Load += new System.EventHandler(this.FormInstaDownloader_Load);
             this.groupBox1.ResumeLayout(false);

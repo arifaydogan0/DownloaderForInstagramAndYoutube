@@ -90,7 +90,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FormYoutubedownloader";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FormYoutubedownloader";
+            this.Text = "Youtube Downloader";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormYoutubedownloader_FormClosing);
             this.Load += new System.EventHandler(this.FormYoutubedownloader_Load);
             this.ResumeLayout(false);
