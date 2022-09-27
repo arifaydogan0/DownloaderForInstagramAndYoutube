@@ -41,6 +41,7 @@
             // 
             resources.ApplyResources(this.label1, "label1");
             this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.ForeColor = System.Drawing.Color.SaddleBrown;
             this.label1.Name = "label1";
             // 
             // pictureBox2
