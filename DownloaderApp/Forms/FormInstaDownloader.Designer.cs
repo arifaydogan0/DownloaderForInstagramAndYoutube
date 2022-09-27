@@ -116,17 +116,19 @@
             // 
             // textBoxPassword
             // 
+            this.textBoxPassword.Font = new System.Drawing.Font("PMingLiU-ExtB", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.textBoxPassword.Location = new System.Drawing.Point(6, 120);
             this.textBoxPassword.Name = "textBoxPassword";
             this.textBoxPassword.PasswordChar = '*';
-            this.textBoxPassword.Size = new System.Drawing.Size(164, 27);
+            this.textBoxPassword.Size = new System.Drawing.Size(164, 25);
             this.textBoxPassword.TabIndex = 1;
             // 
             // textBoxUsername
             // 
+            this.textBoxUsername.Font = new System.Drawing.Font("PMingLiU-ExtB", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.textBoxUsername.Location = new System.Drawing.Point(6, 57);
             this.textBoxUsername.Name = "textBoxUsername";
-            this.textBoxUsername.Size = new System.Drawing.Size(164, 27);
+            this.textBoxUsername.Size = new System.Drawing.Size(164, 25);
             this.textBoxUsername.TabIndex = 0;
             // 
             // groupBox2
