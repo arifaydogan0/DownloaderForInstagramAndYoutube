@@ -319,9 +319,13 @@ namespace DownloaderApp.Forms
                 case "Stop Download":
                     stopDownload();
                     break;
-
             }
 
+            buttonGet.Enabled = false;
+            buttonStart.Enabled = false;
+
+
+            /* yerel metotlar */
             void startDownload()
             {
 
